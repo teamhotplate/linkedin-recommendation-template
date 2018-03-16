@@ -1,0 +1,24 @@
+{
+    "name": "linkedin-recommendation-template",
+    "description": "Want to write a LinkedIn recommendation? Need some inspiration? Use this template to help with that.",
+    "params": [
+      {
+        "name": "name",
+        "type": "string",
+        "description": "Your name"
+      },
+      {
+        "name": "her-him",
+        "type": "string",
+        "description": "Is it a him or a her?"
+      },
+      {
+        "name": "she-he",
+        "type": "string",
+        "description": "Is it a he or a she?"
+      }
+    ],
+    "templates": [
+      "./recommendation.txt"
+    ]
+  }
